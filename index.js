@@ -1,0 +1,1 @@
+// create a cursor that leaves a trail of dots, going from white (closest to cursor) to rainbow (farthest to cursor)
