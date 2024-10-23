@@ -24,7 +24,8 @@ function cursorEffect () { // factory function returns an object
         "#ffd800", //school bus yellow
         "#138808", //india green
         "#0000ff", //blue
-        "#7851a9" //royal purple
+        "#7851a9", //royal purple
+        "#f8f8ff" //ghost white
     ]
 
     return {
